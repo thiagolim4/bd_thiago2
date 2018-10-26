@@ -1,11 +1,21 @@
-"IDSINTOMA","LOCALIZACAOCORPO","DESCRICAO"
-"1","Coluna Lombar","Dor na coluna lombar, parte inferior das costas"
-"2","Glúteos, coxas","Dor ciática"
-"3","Glúteos, braços, mãos","Dormência"
-"4","Corpo todo","Diminuição da força"
-"5","Pernas","Dor ao caminhar"
-"6","Pernas","Fraqueza"
-"7","Coluna, glúteos, perna, calcanhar","Dor intensa"
-"8","Nuca, pescoço","Dor"
-"9","Corpo todo","Dificuldade em se movimentar e abaixar"
-"10","Coluna","Sensação de Queimação"
+"IDSINTOMA","LOCALIZACAOCORPO","DESCRICAO","IDESPECIALIZACAO"
+"1","Corpo","",
+"2","Coluna Lombar","Dor na coluna lombar, parte inferior das costas",
+"3","Glúteos, coxas","Dor ciática",
+"4","Glúteos, braços, mãos","Dormência",
+"5","Corpo todo","Diminuição da força",
+"6","Pernas","Dor ao caminhar",
+"7","Pernas","Fraqueza",
+"8","Coluna, glúteos, perna, calcanhar","Dor intensa",
+"9","Nuca, pescoço","Dor",
+"10","Corpo todo","Dificuldade em se movimentar e abaixar",
+"11","Coluna","Sensação de Queimação","1"
+"12","Cervical","","11"
+"13","Toraxico","","11"
+"14","Lombar","","11"
+"15","Pelvico","","11"
+"16","Cabeca","","1"
+"17","Inferior","","1"
+"18","Superior","","1"
+"19","Linha Pectinea","","15"
+"20","Olho","","16"
