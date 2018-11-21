@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
-  <row>
+<Classificacao>
+  <classificacao>
     <CLASSE>Hernia</CLASSE>
-  </row>
-  <row>
+  </classificacao>
+  <classificacao>
     <CLASSE>Normal</CLASSE>
-  </row>
-  <row>
+  </classificacao>
+  <classificacao>
     <CLASSE>Spondylolisthesis</CLASSE>
-  </row>
-</root>
+  </classificacao>
+</Classificacao>

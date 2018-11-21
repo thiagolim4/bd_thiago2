@@ -1,123 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
-  <row>
+<Sintoma>
+  <sintoma>
     <IDSINTOMA>1</IDSINTOMA>
     <LOCALIZACAOCORPO>Corpo</LOCALIZACAOCORPO>
     <DESCRICAO></DESCRICAO>
     <IDESPECIALIZACAO></IDESPECIALIZACAO>
-  </row>
-  <row>
+  </sintoma>
+  <sintoma>
     <IDSINTOMA>2</IDSINTOMA>
     <LOCALIZACAOCORPO>Coluna Lombar</LOCALIZACAOCORPO>
     <DESCRICAO>Dor na coluna lombar, parte inferior das costas</DESCRICAO>
     <IDESPECIALIZACAO></IDESPECIALIZACAO>
-  </row>
-  <row>
+  </sintoma>
+  <sintoma>
     <IDSINTOMA>3</IDSINTOMA>
     <LOCALIZACAOCORPO>Glúteos, coxas</LOCALIZACAOCORPO>
     <DESCRICAO>Dor ciática</DESCRICAO>
     <IDESPECIALIZACAO></IDESPECIALIZACAO>
-  </row>
-  <row>
+  </sintoma>
+  <sintoma>
     <IDSINTOMA>4</IDSINTOMA>
     <LOCALIZACAOCORPO>Glúteos, braços, mãos</LOCALIZACAOCORPO>
     <DESCRICAO>Dormência</DESCRICAO>
     <IDESPECIALIZACAO></IDESPECIALIZACAO>
-  </row>
-  <row>
+  </sintoma>
+  <sintoma>
     <IDSINTOMA>5</IDSINTOMA>
     <LOCALIZACAOCORPO>Corpo todo</LOCALIZACAOCORPO>
     <DESCRICAO>Diminuição da força</DESCRICAO>
     <IDESPECIALIZACAO></IDESPECIALIZACAO>
-  </row>
-  <row>
+  </sintoma>
+  <sintoma>
     <IDSINTOMA>6</IDSINTOMA>
     <LOCALIZACAOCORPO>Pernas</LOCALIZACAOCORPO>
     <DESCRICAO>Dor ao caminhar</DESCRICAO>
     <IDESPECIALIZACAO></IDESPECIALIZACAO>
-  </row>
-  <row>
+  </sintoma>
+  <sintoma>
     <IDSINTOMA>7</IDSINTOMA>
     <LOCALIZACAOCORPO>Pernas</LOCALIZACAOCORPO>
     <DESCRICAO>Fraqueza</DESCRICAO>
     <IDESPECIALIZACAO></IDESPECIALIZACAO>
-  </row>
-  <row>
+  </sintoma>
+  <sintoma>
     <IDSINTOMA>8</IDSINTOMA>
     <LOCALIZACAOCORPO>Coluna, glúteos, perna, calcanhar</LOCALIZACAOCORPO>
     <DESCRICAO>Dor intensa</DESCRICAO>
     <IDESPECIALIZACAO></IDESPECIALIZACAO>
-  </row>
-  <row>
+  </sintoma>
+  <sintoma>
     <IDSINTOMA>9</IDSINTOMA>
     <LOCALIZACAOCORPO>Nuca, pescoço</LOCALIZACAOCORPO>
     <DESCRICAO>Dor</DESCRICAO>
     <IDESPECIALIZACAO></IDESPECIALIZACAO>
-  </row>
-  <row>
+  </sintoma>
+  <sintoma>
     <IDSINTOMA>10</IDSINTOMA>
     <LOCALIZACAOCORPO>Corpo todo</LOCALIZACAOCORPO>
     <DESCRICAO>Dificuldade em se movimentar e abaixar</DESCRICAO>
     <IDESPECIALIZACAO></IDESPECIALIZACAO>
-  </row>
-  <row>
+  </sintoma>
+  <sintoma>
     <IDSINTOMA>11</IDSINTOMA>
     <LOCALIZACAOCORPO>Coluna</LOCALIZACAOCORPO>
     <DESCRICAO>Sensação de Queimação</DESCRICAO>
     <IDESPECIALIZACAO>1</IDESPECIALIZACAO>
-  </row>
-  <row>
+  </sintoma>
+  <sintoma>
     <IDSINTOMA>12</IDSINTOMA>
     <LOCALIZACAOCORPO>Cervical</LOCALIZACAOCORPO>
     <DESCRICAO></DESCRICAO>
     <IDESPECIALIZACAO>11</IDESPECIALIZACAO>
-  </row>
-  <row>
+  </sintoma>
+  <sintoma>
     <IDSINTOMA>13</IDSINTOMA>
     <LOCALIZACAOCORPO>Toraxico</LOCALIZACAOCORPO>
     <DESCRICAO></DESCRICAO>
     <IDESPECIALIZACAO>11</IDESPECIALIZACAO>
-  </row>
-  <row>
+  </sintoma>
+  <sintoma>
     <IDSINTOMA>14</IDSINTOMA>
     <LOCALIZACAOCORPO>Lombar</LOCALIZACAOCORPO>
     <DESCRICAO></DESCRICAO>
     <IDESPECIALIZACAO>11</IDESPECIALIZACAO>
-  </row>
-  <row>
+  </sintoma>
+  <sintoma>
     <IDSINTOMA>15</IDSINTOMA>
     <LOCALIZACAOCORPO>Pelvico</LOCALIZACAOCORPO>
     <DESCRICAO></DESCRICAO>
     <IDESPECIALIZACAO>11</IDESPECIALIZACAO>
-  </row>
-  <row>
+  </sintoma>
+  <sintoma>
     <IDSINTOMA>16</IDSINTOMA>
     <LOCALIZACAOCORPO>Cabeca</LOCALIZACAOCORPO>
     <DESCRICAO></DESCRICAO>
     <IDESPECIALIZACAO>1</IDESPECIALIZACAO>
-  </row>
-  <row>
+  </sintoma>
+  <sintoma>
     <IDSINTOMA>17</IDSINTOMA>
     <LOCALIZACAOCORPO>Inferior</LOCALIZACAOCORPO>
     <DESCRICAO></DESCRICAO>
     <IDESPECIALIZACAO>1</IDESPECIALIZACAO>
-  </row>
-  <row>
+  </sintoma>
+  <sintoma>
     <IDSINTOMA>18</IDSINTOMA>
     <LOCALIZACAOCORPO>Superior</LOCALIZACAOCORPO>
     <DESCRICAO></DESCRICAO>
     <IDESPECIALIZACAO>1</IDESPECIALIZACAO>
-  </row>
-  <row>
+  </sintoma>
+  <sintoma>
     <IDSINTOMA>19</IDSINTOMA>
     <LOCALIZACAOCORPO>Linha Pectinea</LOCALIZACAOCORPO>
     <DESCRICAO></DESCRICAO>
     <IDESPECIALIZACAO>15</IDESPECIALIZACAO>
-  </row>
-  <row>
+  </sintoma>
+  <sintoma>
     <IDSINTOMA>20</IDSINTOMA>
     <LOCALIZACAOCORPO>Olho</LOCALIZACAOCORPO>
     <DESCRICAO></DESCRICAO>
     <IDESPECIALIZACAO>16</IDESPECIALIZACAO>
-  </row>
-</root>
+  </sintoma>
+</Sintoma>

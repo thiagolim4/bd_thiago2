@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
-  <row>
+<Caracteristica>
+  <caracteristica>
     <NOMECARACTERISTICA>Angulo Lordose Lombar</NOMECARACTERISTICA>
-  </row>
-  <row>
+  </caracteristica>
+  <caracteristica>
     <NOMECARACTERISTICA>Grau de Espondilolistese</NOMECARACTERISTICA>
-  </row>
-  <row>
+  </caracteristica>
+  <caracteristica>
     <NOMECARACTERISTICA>Incidencia Pelvica</NOMECARACTERISTICA>
-  </row>
-  <row>
+  </caracteristica>
+  <caracteristica>
     <NOMECARACTERISTICA>Inclinacao Sacral</NOMECARACTERISTICA>
-  </row>
-  <row>
+  </caracteristica>
+  <caracteristica>
     <NOMECARACTERISTICA>Raio Pelvico</NOMECARACTERISTICA>
-  </row>
-  <row>
+  </caracteristica>
+  <caracteristica>
     <NOMECARACTERISTICA>Versao Pelvica</NOMECARACTERISTICA>
-  </row>
-</root>
+  </caracteristica>
+</Caracteristica>
