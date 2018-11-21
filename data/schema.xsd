@@ -1,0 +1,99 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="root">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Classificacao" maxOccurs="unbounded" minOccurs="0">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="classificacao" maxOccurs="unbounded" minOccurs="0">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:byte" name="IDPACIENTECARACTERISTICA" minOccurs="0"/>
+                    <xs:element type="xs:byte" name="IDPACIENTE" minOccurs="0"/>
+                    <xs:element type="xs:string" name="NOMECARACTERISTICA" minOccurs="0"/>
+                    <xs:element type="xs:float" name="VALOR" minOccurs="0"/>
+                    <xs:element type="xs:string" name="CLASSE" minOccurs="0"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="PacientePossuiCaracteristica">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="pacientepossuicaracteristica">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:byte" name="IDPACIENTECARACTERISTICA"/>
+                    <xs:element type="xs:byte" name="IDPACIENTE"/>
+                    <xs:element type="xs:string" name="NOMECARACTERISTICA"/>
+                    <xs:element type="xs:float" name="VALOR"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Paciente">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="paciente">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:byte" name="IDPACIENTE"/>
+                    <xs:element type="xs:string" name="CLASSE"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="ClassificacaoTemSintoma">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="classificacaotemsintoma">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:byte" name="IDCLASSIFICACAOTEMSINTOMA"/>
+                    <xs:element type="xs:string" name="CLASSE"/>
+                    <xs:element type="xs:byte" name="IDSINTOMA"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Caracteristica">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="caracteristica">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:string" name="NOMECARACTERISTICA"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Sintoma">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="sintoma">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:byte" name="IDSINTOMA"/>
+                    <xs:element type="xs:string" name="LOCALIZACAOCORPO"/>
+                    <xs:element type="xs:string" name="DESCRICAO"/>
+                    <xs:element type="xs:string" name="IDESPECIALIZACAO"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
