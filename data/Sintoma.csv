@@ -1,5 +1,5 @@
 "IDSINTOMA","LOCALIZACAOCORPO","DESCRICAO","IDESPECIALIZACAO"
-"1","Corpo","",
+"1","Corpo","Sintoma generalizado no corpo",
 "2","Coluna Lombar","Dor na coluna lombar, parte inferior das costas",
 "3","Glúteos, coxas","Dor ciática",
 "4","Glúteos, braços, mãos","Dormência",
@@ -10,12 +10,12 @@
 "9","Nuca, pescoço","Dor",
 "10","Corpo todo","Dificuldade em se movimentar e abaixar",
 "11","Coluna","Sensação de Queimação","1"
-"12","Cervical","","11"
-"13","Toraxico","","11"
-"14","Lombar","","11"
-"15","Pelvico","","11"
-"16","Cabeca","","1"
-"17","Inferior","","1"
-"18","Superior","","1"
-"19","Linha Pectinea","","15"
-"20","Olho","","16"
+"12","Cervical","Vertebras do Pescoço","11"
+"13","Toráxico","Vertebras na Altura do Peito","11"
+"14","Lombar","Vertebras na base da coluna","11"
+"15","Pelvico","Sintoma na regiao da pelve","11"
+"16","Cabeca","Dor na região da cabeça","1"
+"17","Inferior","Regiao inferior do corpo, como pernas","1"
+"18","Superior","Regiao superior do corpo a partir do peito","1"
+"19","Linha Pectinea","Regiao específica da pelve","15"
+"20","Olho","Dor no globo ocular","16"
