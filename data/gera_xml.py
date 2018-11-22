@@ -11,4 +11,4 @@ with open('column.xml', 'w') as outfile:
             next(infile)
             for line in infile:
                 outfile.write(line)
-    outfile.write('\n<\\root>\n')
+    outfile.write('\n</root>\n')
